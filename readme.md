@@ -147,3 +147,7 @@ http://localhost:8080/SpringBootWeb/teams2/Peanuts
 		<position>pitcher</position>
 	</players>
 </team>
+
+
+Examples jersey client in MyController1.java and MyController2.java
+Examples jquery ajax in hello.jsp
