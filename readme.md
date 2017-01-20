@@ -149,5 +149,5 @@ http://localhost:8080/SpringBootWeb/teams2/Peanuts
 </team>
 
 
-Examples jersey client in MyController1.java and MyController2.java
-Examples jquery ajax in hello.jsp
+Jersey client librarys rest.helpers.HttpRequest.java,rest.helpers.Strategy.HttpRequest.java examples in MyController1.java and MyController2.java
+Jquery Ajax library rest.js example in hello.jsp 
